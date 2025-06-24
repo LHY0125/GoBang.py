@@ -77,7 +77,7 @@ python chaogao2.py
 3. 下载游戏代码或克隆到本地：
    ```bash
    # 如果使用git
-   git clone https://github.com/yourusername/gomoku.git
+   git clone https://github.com/LHY0125/GoBang.py/gomoku.git
    cd gomoku
    
    # 或者直接下载源代码文件
